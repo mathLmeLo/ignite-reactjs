@@ -15,5 +15,5 @@ Proposed in [Instructions and Figma](https://efficient-sloth-d85.notion.site/Des
   - `npm run dev`
 
 # Final result
-![Result](/result.png "Final result")
+![Result](/assignments/01-todo-app/result.png "Final result")
 
