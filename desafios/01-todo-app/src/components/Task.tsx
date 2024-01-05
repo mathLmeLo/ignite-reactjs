@@ -2,12 +2,23 @@ import { CheckCircle, Circle, Trash } from '@phosphor-icons/react';
 import styles from './Task.module.css';
 
 interface TaskProps {
-  id?: number;
+  id: string;
   title: string;
   isCompleted: boolean;
+  onDeleteTask: (id: string) => void;
+  onChangeTaskCompletion: (id: string) => void;
 }
 
-export function Task({title, isCompleted}: TaskProps) {
+export function Task({id, title, isCompleted, onDeleteTask, onChangeTaskCompletion}: TaskProps) {
+
+  function handleDeleteTask() {
+    onDeleteTask(id);
+  }
+
+  function handleChangeTaskCompletion() {
+    onChangeTaskCompletion(id);
+  }
+
   return (
     <article
       className={
@@ -16,7 +27,10 @@ export function Task({title, isCompleted}: TaskProps) {
           : `${styles.task} ${styles.notDone}`
       }
     >
-      <button title="Marcar como feito">
+      <button
+        title="Marcar como feito/não feito"
+        onClick={handleChangeTaskCompletion}
+      >
         {
           isCompleted
             ? <div className={styles.checked}>
@@ -30,8 +44,12 @@ export function Task({title, isCompleted}: TaskProps) {
         }
       </button>
       <p>{title}</p>
-      <button title="Deletar tarefa" className='trashButton'>
-        <Trash onClick={() => {}} className={styles.trashIcon}/>
+      <button
+        title="Deletar tarefa"
+        className={styles.trashButton}
+        onClick={handleDeleteTask}
+      >
+        <Trash className={styles.trashIcon}/>
       </button>
     </article>
   )

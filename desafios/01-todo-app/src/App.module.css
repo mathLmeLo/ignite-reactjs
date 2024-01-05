@@ -13,7 +13,7 @@
   margin-top: -1.6875rem;
 }
 
-.newTask > textarea {
+.newTask > input {
   background: var(--gray-500);
   border: 0;
   resize: none;
