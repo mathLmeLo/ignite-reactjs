@@ -12,7 +12,15 @@ App developed during 2nd part of ReactJS specialization
 - Hookform resolvers validation with zod
 
 # Final result
-![Result](/classes/01-ignite-timer/result.png "Final result")
+
+## Screenshot
+![Result](/classes/02-ignite-timer/result.png "Final result")
+
+## Demo video
+
+https://github.com/mathLmeLo/ignite-reactjs/assets/49342185/87075b04-143e-434c-ba61-ca642800802a
+
+
 
 
 ## Notes
