@@ -24,4 +24,5 @@ App developed during 3rd part of ReactJS specialization
       }`
 - Fix linting 
   - `npx eslint src --ext .ts,.tsx --fix`
-
+- Run JSON Server
+  - `npx json-server server.json -p 3333 -w`
