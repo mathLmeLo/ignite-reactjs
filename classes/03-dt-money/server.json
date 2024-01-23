@@ -47,6 +47,14 @@
       "category": "opa",
       "type": "income",
       "createdAt": "2024-01-23T02:07:18.504Z"
+    },
+    {
+      "id": "3780",
+      "description": "s",
+      "price": 1,
+      "category": "1",
+      "type": "income",
+      "createdAt": "2024-01-23T02:51:16.839Z"
     }
   ]
 }
