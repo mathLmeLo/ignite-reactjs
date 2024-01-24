@@ -8,6 +8,7 @@ App developed during 4th part of ReactJS specialization
 - [Prettier Tailwind Plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [Eslint Simple Import Plugin](https://github.com/lydell/eslint-plugin-simple-import-sort)
 - [React Helmet Async](https://github.com/staylor/react-helmet-async)
+- [Sonner (Toast Lib)](https://sonner.emilkowal.ski/)
 
 # Final result
 
