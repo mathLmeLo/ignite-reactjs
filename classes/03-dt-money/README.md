@@ -12,7 +12,7 @@ App developed during 3rd part of ReactJS specialization
 # Final result
 
 ## Screenshot
-![Result](/classes/03-dt-money/result.png "Final result")
+![Result](/classes/03-dt-money/resultt.png "Final result")
 
 ## Demo video
 
