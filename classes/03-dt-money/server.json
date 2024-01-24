@@ -17,44 +17,12 @@
       "createdAt": "2024-01-18T19:30:44.505Z"
     },
     {
-      "id": "2890",
-      "description": "Teste",
-      "price": 1,
-      "category": "teste",
+      "description": "Pizza",
+      "price": 50,
+      "category": "Alimentação",
       "type": "outcome",
-      "createdAt": "2024-01-23T01:49:57.775Z"
-    },
-    {
-      "id": "e8e9",
-      "description": "Teste",
-      "price": 1,
-      "category": "teste",
-      "type": "outcome",
-      "createdAt": "2024-01-23T01:50:01.903Z"
-    },
-    {
-      "id": "7135",
-      "description": "App",
-      "price": 100000,
-      "category": "dev",
-      "type": "income",
-      "createdAt": "2024-01-23T01:51:19.684Z"
-    },
-    {
-      "id": "01a9",
-      "description": "Opa",
-      "price": 10,
-      "category": "opa",
-      "type": "income",
-      "createdAt": "2024-01-23T02:07:18.504Z"
-    },
-    {
-      "id": "3780",
-      "description": "s",
-      "price": 1,
-      "category": "1",
-      "type": "income",
-      "createdAt": "2024-01-23T02:51:16.839Z"
+      "createdAt": "2024-01-24T01:17:59.798Z",
+      "id": "_V29iQT"
     }
   ]
 }

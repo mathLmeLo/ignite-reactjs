@@ -4,6 +4,10 @@ App developed during 3rd part of ReactJS specialization
 
 # Worked Topics
 - API Calls
+- Performance with
+- useCallback (functions)
+- useMemo (variables)
+- useContextSelector
 
 # Final result
 

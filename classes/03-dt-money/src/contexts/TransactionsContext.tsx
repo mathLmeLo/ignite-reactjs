@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import { ReactNode, useCallback, useEffect, useState } from 'react'
 import { api } from '../lib/axios'
 import { createContext } from 'use-context-selector'
@@ -50,7 +49,7 @@ export default function TransactionsProvider({
 
   useEffect(() => {
     fetchTransactions()
-  }, [])
+  }, [fetchTransactions])
 
   const createTransaction = useCallback(
     async (data: CreateTransactionInput): Promise<void> => {
