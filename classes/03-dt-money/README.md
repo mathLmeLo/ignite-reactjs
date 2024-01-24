@@ -16,8 +16,7 @@ App developed during 3rd part of ReactJS specialization
 
 ## Demo video
 
-
-
+https://github.com/mathLmeLo/ignite-reactjs/assets/49342185/ac440b44-656d-4c0b-b327-33d3e153f62f
 
 ## Notes
 - Add eslint rules
