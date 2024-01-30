@@ -10,6 +10,8 @@ App developed during 4th part of ReactJS specialization
 - [React Helmet Async](https://github.com/staylor/react-helmet-async)
 - [Sonner (Toast Lib)](https://sonner.emilkowal.ski/)
 - [Recharts](https://recharts.org/en-US/)
+- [Bun API](https://bun.sh/)
+- [React Query](https://tanstack.com/query/v3/docs/framework/react/overview)
 
 # Final result
 
