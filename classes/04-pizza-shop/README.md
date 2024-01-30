@@ -9,6 +9,7 @@ App developed during 4th part of ReactJS specialization
 - [Eslint Simple Import Plugin](https://github.com/lydell/eslint-plugin-simple-import-sort)
 - [React Helmet Async](https://github.com/staylor/react-helmet-async)
 - [Sonner (Toast Lib)](https://sonner.emilkowal.ski/)
+- [Recharts](https://recharts.org/en-US/)
 
 # Final result
 
